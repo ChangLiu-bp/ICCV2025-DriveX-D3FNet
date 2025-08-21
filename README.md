@@ -30,10 +30,18 @@ Extensive experiments on **DeepGlobe** and **CHN6-CUG** benchmarks show that D3F
 
 ---
 
+## 📞 Contact
+
+If you have any questions about reproducing this work, please contact:
+
+- Xuyang: [xuy@edu.bme.hu](mailto:xuy@edu.bme.hu)  
+- Yang Xu: [xuy0727@gmail.com](mailto:xuy0727@gmail.com)
+
 ## 📌 Useful Information (Baseline: D-LinkNet34)
 
 D3FNet is built upon the winning solution of the **DeepGlobe Road Extraction Challenge (1st Place)**.  
 [DeepGlobe Road Extraction Challenge](https://competitions.codalab.org/competitions/18467)
+
 For reproducibility and fair comparison, we summarize the baseline usage here:
 
 ### Requirements (Baseline)
