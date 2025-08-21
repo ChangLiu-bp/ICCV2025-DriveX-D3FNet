@@ -11,9 +11,7 @@ Official implementation of our ICCV 2025 paper:  （ DriveX paper id 5 ）
 ## 🖋 Authors
 
 **Chang Liu** (Corresponding author: [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu), [changliu@sztaki.hu](mailto:changliu@sztaki.hu))  
-
 **Yang Xu** ([xuy@edu.bme.hu](mailto:xuy@edu.bme.hu))  
-
 **Tamas Sziranyi** ([sziranyi.tamas@sztaki.hun-ren.hu](mailto:sziranyi.tamas@sztaki.hun-ren.hu))  
 
 **Affiliations:**  
