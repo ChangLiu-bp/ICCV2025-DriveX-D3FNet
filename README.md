@@ -9,9 +9,9 @@ Official implementation of our ICCV 2025 paper:  （ DriveX paper id 5 ）
 
 ## 🖋 Authors
 
-**Chang Liu$^{1,2}$*** (Corresponding author: [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu), [changliu@sztaki.hu](mailto:changliu@sztaki.hu))  
-**Yang Xu$^{1}$** ([xuy@edu.bme.hu](mailto:xuy@edu.bme.hu), [xuy0727@gmail.com](mailto:xuy0727@gmail.com))  
-**Tamas Sziranyi$^{1,2}$** ([sziranyi.tamas@sztaki.hun-ren.hu](mailto:sziranyi.tamas@sztaki.hun-ren.hu))  
+**Chang Liu (Corresponding author: [changliu@hit.bme.hu](mailto:changliu@hit.bme.hu), [changliu@sztaki.hu](mailto:changliu@sztaki.hu))  
+**Yang Xu ([xuy@edu.bme.hu](mailto:xuy@edu.bme.hu), [xuy0727@gmail.com](mailto:xuy0727@gmail.com))  
+**Tamas Sziranyi ([sziranyi.tamas@sztaki.hun-ren.hu](mailto:sziranyi.tamas@sztaki.hun-ren.hu))  
 
 $^{1}$ Department of Networked Systems and Services, Faculty of Electrical Engineering and Informatics, Budapest University of Technology and Economics (BME), Budapest, Hungary  
 $^{2}$ Machine Perception Research Laboratory, HUN-REN Institute for Computer Science and Control (SZTAKI), Budapest, Hungary
