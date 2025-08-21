@@ -34,7 +34,9 @@ Extensive experiments on **DeepGlobe** and **CHN6-CUG** benchmarks show that D3F
 
 If you have any questions about reproducing this work, please contact:
 
-- Xu Yang: [xuy@edu.bme.hu](mailto:xuy@edu.bme.hu)  [xuy0727@gmail.com](mailto:xuy0727@gmail.com)
+- Xu Yang:
+- [xuy@edu.bme.hu](mailto:xuy@edu.bme.hu)
+- [xuy0727@gmail.com](mailto:xuy0727@gmail.com)
 
 ## 📌 Useful Information (Baseline: D-LinkNet34)
 
