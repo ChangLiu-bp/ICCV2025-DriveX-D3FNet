@@ -1,6 +1,6 @@
 # D3FNet: Differential Attention Fusion Network for Fine-Grained Road Extraction
 
-Official implementation of our ICCV 2025 paper:  
+Official implementation of our ICCV 2025 paper:  （ DriveX paper id 5 ）
 **"D3FNet: A Dilated Dual-Stream Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems"**  
 
 <p align="center">
