@@ -87,10 +87,12 @@ Then should change source dataset and load the weight that have been trained.
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{anonymous2025dfnet,
-  title={D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems},
-  author={Anonymous},
-  booktitle={ICCV 2025 DriveX - 2nd Workshop on Foundation Models for V2X-based Cooperative Autonomous Driving},
-  year={2025},
-  url={https://openreview.net/forum?id=sGCBGW8o6r}
+@misc{liu2025d3fnetdifferentialattentionfusion,
+      title={D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems}, 
+      author={Chang Liu and Yang Xu and Tamas Sziranyi},
+      year={2025},
+      eprint={2508.15537},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.15537}, 
 }
