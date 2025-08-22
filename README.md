@@ -80,3 +80,17 @@ Then should change source dataset and load the weight that have been trained.
 ### Download trained D-LinkNet34
 - [Dropbox](https://www.dropbox.com/sh/h62vr320eiy57tt/AAB5Tm43-efmtYzW_GFyUCfma?dl=0)
 - [百度网盘](https://pan.baidu.com/s/1wqyOEkw5o0bzbuj7gBMesQ)
+
+  
+## 📑 Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{anonymous2025dfnet,
+  title={D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems},
+  author={Anonymous},
+  booktitle={ICCV 2025 DriveX - 2nd Workshop on Foundation Models for V2X-based Cooperative Autonomous Driving},
+  year={2025},
+  url={https://openreview.net/forum?id=sGCBGW8o6r}
+}
