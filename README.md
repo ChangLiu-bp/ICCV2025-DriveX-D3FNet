@@ -4,6 +4,8 @@ Official implementation of our ICCV 2025 paper:  （ DriveX paper id 5 ）
 
 **"D3FNet: A Dilated Dual-Stream Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems"**  
 
+📄 [Read the Paper on arXiv](https://arxiv.org/abs/2508.15537)
+
 <p align="center">
   <img src="docs/D3FNET.PNG" width="600"/>
 </p>
