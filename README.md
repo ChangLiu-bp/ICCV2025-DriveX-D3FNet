@@ -44,9 +44,7 @@ Extensive experiments on **DeepGlobe** and **CHN6-CUG** benchmarks show that D3F
 
 ## 📞 Contact
 
-If you have any questions about reproducing this work, please contact:
-
-- Xu Yang:
+If you have any questions about reproducing this work, please contact Xu Yang:
 - [xuy@edu.bme.hu](mailto:xuy@edu.bme.hu)
 - [xuy0727@gmail.com](mailto:xuy0727@gmail.com)
 
@@ -62,10 +60,6 @@ For reproducibility and fair comparison, we summarize the baseline usage here:
 - Python 2.7
 - PyTorch 0.2.0
 - OpenCV (cv2)
-
-### Data
-
-Data is from [DeepGlobe Road Extraction Challenge](https://competitions.codalab.org/competitions/18467#participate-get_starting_kit). You should sign in first to get the data.
 
 ### Train
 - Run `python train_lr.py` to train the default D-LinkNet34.
