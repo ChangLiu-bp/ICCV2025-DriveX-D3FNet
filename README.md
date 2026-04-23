@@ -85,11 +85,11 @@ Then should change source dataset and load the weight that have been trained.
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@InProceedings{Li_2025_ICCV,
-    author    = {Li, Lantao and Yang, Kang and Zhang, Wenqi and Wang, Xiaoxue and Sun, Chen},
-    title     = {RG-Attn: Radian Glue Attention for Multi-modal Multi-agent Cooperative Perception},
+@InProceedings{Liu_2025_ICCV,
+    author    = {Liu, Chang and Xu, Yang and Sziranyi, Tamas},
+    title     = {D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
     month     = {October},
     year      = {2025},
-    pages     = {1774-1783}
+    pages     = {1784-1793}
 }
