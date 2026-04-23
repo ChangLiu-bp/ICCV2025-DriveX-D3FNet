@@ -4,7 +4,9 @@ Official implementation of our ICCV 2025 paper:  （ DriveX paper id 5 ）
 
 **"D3FNet: A Dilated Dual-Stream Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems"**  
 
-📄 [Read the Paper on arXiv](https://arxiv.org/abs/2508.15537)
+📄 [Read the Paper on CVF]([https://arxiv.org/abs/2508.15537](https://openaccess.thecvf.com/content/ICCV2025W/DriveX/html/Liu_D3FNet_A_Differential_Attention_Fusion_Network_for_Fine-Grained_Road_Structure_ICCVW_2025_paper.html))
+
+📄 [Read the Paper on IEEE]([https://ieeexplore.ieee.org/document/11375493))
 
 <p align="center">
   <img src="docs/D3FNET.PNG" width="600"/>
@@ -81,12 +83,11 @@ Then should change source dataset and load the weight that have been trained.
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@misc{liu2025d3fnetdifferentialattentionfusion,
-      title={D3FNet: A Differential Attention Fusion Network for Fine-Grained Road Structure Extraction in Remote Perception Systems}, 
-      author={Chang Liu and Yang Xu and Tamas Sziranyi},
-      year={2025},
-      eprint={2508.15537},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2508.15537}, 
+@InProceedings{Li_2025_ICCV,
+    author    = {Li, Lantao and Yang, Kang and Zhang, Wenqi and Wang, Xiaoxue and Sun, Chen},
+    title     = {RG-Attn: Radian Glue Attention for Multi-modal Multi-agent Cooperative Perception},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2025},
+    pages     = {1774-1783}
 }
